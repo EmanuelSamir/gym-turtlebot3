@@ -1,4 +1,4 @@
-# TurtleBot3 Gym env
+# TurtleBot3 Gym env forked
 <img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/turtlebot3/logo_turtlebot3.png" width="300">
 
 This is a gym env to work with the TurtleBot3 gazebo simulations, allowing the use of [OpenAI Baselines](https://github.com/openai/baselines) and [Stable Baselines](https://github.com/hill-a/stable-baselines) deep reinforcement learning algorithms in the robot navigation training. See the `examples` folder to check some Python programs.
